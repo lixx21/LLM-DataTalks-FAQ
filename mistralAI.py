@@ -21,7 +21,7 @@ def build_prompt(query, search_results):
     return prompt
 
 def llm(prompt, model="mistral-medium-latest"):
-    mistral_key = "pqcHo388Jwjc76uZ3kBVhGCMpiobC3kF"
+    mistral_key = "" # replace with your Mistral.AI KEY
     messages = [
         ChatMessage(role="user", content=prompt)
     ]
