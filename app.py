@@ -4,12 +4,12 @@ from mistralAI import build_prompt, llm
 import streamlit as st
 from stqdm import stqdm
 
-st.title("Data Talks FAQ Chatbot")
+st.title("DataTalks FAQ Chatbot")
 # Initialize session state for data and esclient
 def initialize_data():
     if 'data_initialized' not in st.session_state:
         st.session_state.documents = getData()
-        st.session_state.index_name = "course-9ues9t"
+        st.session_state.index_name = "course-questions"
         st.session_state.esclient = createIndex(st.session_state.index_name)
 
         with st.spinner('Preparing the data...'):
