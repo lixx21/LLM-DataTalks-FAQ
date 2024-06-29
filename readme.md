@@ -10,4 +10,4 @@ in this project, we will using [ElasticSearch](https://www.elastic.co/guide/en/e
 
 # App 
 
-![app](https://github.com/lixx21/LLM_DATATALKS_FAQ/blob/master/images/app.png)
+<img width="1500" alt="app" src="https://github.com/lixx21/LLM-DataTalks-FAQ/assets/91602612/30a97410-d214-4d25-bfd8-bc57bb016369">
