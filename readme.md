@@ -1,6 +1,6 @@
 # About
 
-in this project, we will using [ElasticSearch](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html) and [Mistral.AI](https://mistral.ai/) to build LLM from Data Talks FAQ dataset 
+in this project, we will using [ElasticSearch](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html) and [Mistral.AI](https://mistral.ai/) to build LLM from [DataTalks](https://datatalks.club/) FAQ dataset 
 
 # How To Start
 
